@@ -42,7 +42,7 @@ print(type(geo))
 geo = geo.to_crs(6668)
 #TEST CODE
 # Check layer crs
-print(geo.crs)
+print(geo.crs) 
 
 
 # YOUR CODE HERE 4 to join the tables
