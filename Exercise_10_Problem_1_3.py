@@ -135,8 +135,14 @@ azabu_sum=round(azabu["PTN_2020"].sum())
 #     
 # - How challenging did you find problems 1-3 (on scale to 1-5), and why?
 # - What was easy?
+
 # - What was difficult?
 
 # YOUR ANSWER HERE
-
+#problem 1,2
+#problem2,5
+#problem3,5
+# making adress is too difficult.
+#problem1
+#the woy to make address
 # Well done!
